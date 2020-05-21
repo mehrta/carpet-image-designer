@@ -196,6 +196,10 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="IconMain.ico" />
+    <Content Include="Sample Images\1-input.bmp" />
+    <Content Include="Sample Images\1-output.bmp" />
+    <Content Include="Sample Images\2-input.bmp" />
+    <Content Include="Sample Images\3.bmp" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
